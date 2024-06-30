@@ -1,7 +1,7 @@
 # Postman-Opencart
 
 A REST API testing project, simulating an end-user flow on an e-commerce page,   
-(HTML test report inluded)  
+(HTML test report included)  
 
 1) where he logins, creating a session and a token (POST)  
    we test status code = 200 and  
